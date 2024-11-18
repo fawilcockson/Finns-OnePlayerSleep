@@ -1,8 +1,8 @@
-# One Player Sleep Data Pack for Minecraft 1.15 to 1.20++
+# One Player Sleep Data Pack for Minecraft 1.21+
 
 Thank you for choosing my data pack! Many years of testing in several servers and addressing all the problems has made this a really solid pack.
 
-To better serve the community I've  added some fool-proofing needed for servers with odd settings (like having the weather cycle off).
+Contains fool-proofing needed for servers with odd settings (like having the weather cycle off).
 
 ## Features
 
@@ -43,7 +43,7 @@ Some of the features include:
 - Updated pack version and image
 - Modified the release folder in GitHub to better reflect compatibility with Minecraft versions
 
-## More resources
+## More resources (Created by MadCatHoG)
 
 A download list of [Minecraft 1.16 Data Packs][dplist] where this is included
 To see this in action you can visit [my website][mcweb].
