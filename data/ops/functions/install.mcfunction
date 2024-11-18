@@ -3,7 +3,7 @@
 # Date: May 11, 2020
 # Last update: Oct, 17, 2023
 # Version: 4.3
-# Minecraft Version 1.20 ++
+# Minecraft Version 1.21 ++
 # Description:
 # Installs One Player Sleep data pack
 ##########################################
